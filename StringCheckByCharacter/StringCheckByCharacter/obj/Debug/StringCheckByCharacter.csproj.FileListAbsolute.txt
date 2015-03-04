@@ -1,0 +1,10 @@
+C:\MSI\ForUP\StringCheckByCharacter\StringCheckByCharacter\bin\Debug\StringCheckByCharacter.exe.config
+C:\MSI\ForUP\StringCheckByCharacter\StringCheckByCharacter\bin\Debug\StringCheckByCharacter.exe
+C:\MSI\ForUP\StringCheckByCharacter\StringCheckByCharacter\bin\Debug\StringCheckByCharacter.pdb
+C:\MSI\ForUP\StringCheckByCharacter\StringCheckByCharacter\obj\Debug\StringCheckByCharacter.csprojResolveAssemblyReference.cache
+C:\MSI\ForUP\StringCheckByCharacter\StringCheckByCharacter\obj\Debug\StringCheckByCharacter.Form1.resources
+C:\MSI\ForUP\StringCheckByCharacter\StringCheckByCharacter\obj\Debug\StringCheckByCharacter.Properties.Resources.resources
+C:\MSI\ForUP\StringCheckByCharacter\StringCheckByCharacter\obj\Debug\StringCheckByCharacter.csproj.GenerateResource.Cache
+C:\MSI\ForUP\StringCheckByCharacter\StringCheckByCharacter\obj\Debug\StringCheckByCharacter.exe
+C:\MSI\ForUP\StringCheckByCharacter\StringCheckByCharacter\obj\Debug\StringCheckByCharacter.pdb
+C:\MSI\ForUP\StringCheckByCharacter\StringCheckByCharacter\bin\Debug\districts.txt
